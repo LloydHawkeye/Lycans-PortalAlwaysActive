@@ -1,13 +1,8 @@
-# LycansModTemplate
+# PortalDisabler
 
-Ce repo contiens un mod d'exemple pour Lycans.
+**PortalDisabler** permet tout simplement de dÃ©sactiver les portails.
 
-Vous pouvez cloner ce repo ou vous en servir comme d'une Template, ouvrir le fichier 
-solution dans **Visual Studio** et commencer à développer directement.
+### Installation
 
-Ce plugin d'exemple devrait vous permettre d'avoir tout ce dont vous avez besoin pour bien 
-commencer à développer un mod simple. Il setup les éléments suivants :
-
-- Un projet `.csproj` préconfigurer avec les paquets nécessaires
-- Un logger global
-- Un plugin basique qui broadcast un son
+- Requiert [BepInEx 5](https://docs.bepinex.dev/articles/user_guide/installation/index.html) (developpÃ© et testÃ© avec la version 5.4.22)
+- Copier le [Fichier DLL](https://github.com/Shepardeon/LycansMod-OptionsLimitsBegone/releases/tag/2.1.0) dans le dossier "plugins" de BepInEx
