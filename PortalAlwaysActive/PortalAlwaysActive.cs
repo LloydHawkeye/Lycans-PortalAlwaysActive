@@ -5,10 +5,6 @@ using PortalAlwaysActive.Patch;
 
 namespace PortalAlwaysActive
 {
-    // Mod d'exemple qui permet à un joueur de péter sur commande en appuyant sur la touche P
-    // de son clavier. Vous pouvez vous en servir comme point de départ pour créer vos mods sur
-    // Lycans.
-
     [BepInPlugin(PLUGIN_GUID, PLUGIN_NAME, PLUGIN_VERSION)]
     [BepInProcess("Lycans.exe")]
     public class PortalAlwaysActive : BaseUnityPlugin
