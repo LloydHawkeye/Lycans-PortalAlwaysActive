@@ -1,0 +1,10 @@
+{
+	"name": "PortalAlwaysActive",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/LloydHawkeye/Lycans-PortalAlwaysActive",
+	"description": "Permet l'activation des portails constant",
+	"dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"LycansModding-HookGenPatcher-1.0.0"
+	]
+}
